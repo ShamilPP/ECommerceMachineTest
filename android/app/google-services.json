@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812672885270",
+    "project_id": "e-commerce-machinetest",
+    "storage_bucket": "e-commerce-machinetest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812672885270:android:d92095d85ae41913e74b37",
+        "android_client_info": {
+          "package_name": "com.shamil.e_commerce_machinetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGqT6Zp_Z2n5Y88HXXDStQ1LOHBEmo8DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
